@@ -7,3 +7,6 @@
 # Ignore a pasta "vs" e "vscode"
 /.vs
 /.vscode
+
+# Ignore a pasta "Migrations"
+/Migrations
